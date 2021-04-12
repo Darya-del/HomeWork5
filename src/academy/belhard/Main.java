@@ -1,4 +1,4 @@
-package academy.belhard.entity.entity;
+package academy.belhard;
 
 public class Main {
 
